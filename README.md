@@ -15,7 +15,7 @@
 - **DUANMAU** – A library management app for students at FPT Polytechnic.  
 - **Coffee_Shop_App** – A cross-platform app for coffee shop management using React Native & Node.js.  
 
-🌟 *Check out all my projects here →* [My GitHub Repositories](https://github.com/phuonggcoder)  
+🌟 *Check out all my projects here →* [My GitHub Repositories](https://github.com/phuonggcoder?tab=repositories)  
 
 ---
 
