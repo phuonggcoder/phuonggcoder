@@ -1,7 +1,5 @@
 # 💫 Hi there, I'm Nguyễn Duy Phương! 👋  
 🎓 **Mobile Programming Student** at **FPT Polytechnic**  
-📍 Based in Vietnam 🇻🇳  
-
 ---
 
 ## 🚀 About Me  
@@ -13,9 +11,9 @@
 ---
 
 ## 💼 Projects  
-- **Laptop Manager App** – An Android app for managing laptop stores.  
-- **Library Manager** – A library management app for students at FPT Polytechnic.  
-- **Coffee_Shop_APP** – A cross-platform app for coffee shop management using React Native & Node.js.  
+- **Laptop Manager** – An Android app for managing laptop stores.  
+- **DUANMAU** – A library management app for students at FPT Polytechnic.  
+- **Coffee_Shop_App** – A cross-platform app for coffee shop management using React Native & Node.js.  
 
 🌟 *Check out all my projects here →* [My GitHub Repositories](https://github.com/phuonggcoder)  
 
@@ -36,7 +34,3 @@
 ## 📫 Connect with Me  
 - **Email:** nguyenduyphuongan84@gmail.com  
 - **GitHub:** [phuonggcoder](https://github.com/phuonggcoder)  
-
----
-
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”* 💡
