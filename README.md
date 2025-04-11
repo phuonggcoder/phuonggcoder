@@ -11,6 +11,7 @@
 ---
 
 ## 💼 Projects  
+- **Planta App** – This is a mobile application developed using React Native, leveraging JavaScript along with familiar web technologies like HTML and CSS. It's designed to run smoothly on Android devices. 
 - **Laptop Manager** – An Android app for managing laptop stores.  
 - **DUANMAU** – A library management app for students at FPT Polytechnic.  
 - **Coffee_Shop_App** – A cross-platform app for coffee shop management using React Native & Node.js.  
