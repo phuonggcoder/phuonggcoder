@@ -1,37 +1,42 @@
-# 💫 Hi there, I'm Nguyễn Duy Phương! 👋  
-🎓 **Mobile Programming Student** at **FPT Polytechnic**  
----
+# Nguyễn Duy Phương 🔥
+Mobile Developer — Java | React Native | Node.js
 
-## 🚀 About Me  
-- 📱 Aspiring **Mobile App Developer** passionate about building user-friendly applications.  
-- 💡 Constantly exploring new technologies and frameworks to expand my skill set.  
-- 🌱 Currently learning **Java**, **JavaScript**, **React Native**, **NodeJS** and diving deeper into **Mobile Development**.  
-- 🔭 Working on real-world projects to strengthen my problem-solving and teamwork skills.  
+## Tech
+**Languages**
+<p>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="32" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="32"/>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="32"/>
+  <img src="https://cdn.simpleicons.org/kotlin/000000" width="32"/>
+</p>
 
----
+**DB**
+<p>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32"/>
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="32"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="32"/>
+</p>
 
-## 💼 Projects  
-- **Planta App** – This is a mobile application developed using React Native, leveraging JavaScript along with familiar web technologies like HTML and CSS. It's designed to run smoothly on Android devices. 
-- **Laptop Manager** – An Android app for managing laptop stores.  
-- **DUANMAU** – A library management app for students at FPT Polytechnic.  
-- **Coffee_Shop_App** – A cross-platform app for coffee shop management using React Native & Node.js.  
+**Tools**
+<p>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="32"/>
+  <img src="https://cdn.simpleicons.org/figma/000000" width="32"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="32"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="32"/>
+  <img src="https://cdn.simpleicons.org/upstash/004466" width="32"/>
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="32"/>
+</p>
 
-🌟 *Check out all my projects here →* [My GitHub Repositories](https://github.com/phuonggcoder?tab=repositories)  
 
----
+## Projects
+* [**yolo-proj**]() NOT DEPLOY YET 
+* [**ShelfStacker**]() In Progress
+* [**Planta**](https://github.com/phuonggcoder/PlantaApp) 
+* [**Coffee Shop**](https://github.com/phuonggcoder/QLyCafe)
+* [**Laptop Manager**](https://github.com/qquan2108/PRO1122_LaptopManager)
+* [**DUANMAU**](https://github.com/phuonggcoder/DUANMAU)
 
-## 🛠️ Tech Stack  
-**Languages & Frameworks:**  
-- Java | JavaScript | Kotlin | Node.js | React Native | HTML5 | CSS3  
-
-**Databases:**  
-- SQL Server | MySQL | Firebase | MongoDB  
-
-**Tools & Platforms:**  
-- Android Studio | Visual Studio Code | Postman | Figma | GitHub  
-
----
-
-## 📫 Connect with Me  
-- **Email:** nguyenduyphuongan84@gmail.com  
-- **GitHub:** [phuonggcoder](https://github.com/phuonggcoder)  
+📧 nguyenduyphuongan84@gmail.com  
+🐙 github.com/phuonggcoder
